@@ -3,4 +3,4 @@ project(algorithmique_complexite C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(algorithmique_complexite main.c)
+add_executable(algorithmique_complexite tp1.c)
