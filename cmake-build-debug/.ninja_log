@@ -1,11 +1,7 @@
 # ninja log v6
-2	38	1730303323160699144	CMakeFiles/algorithmique_complexite.dir/tp1.c.o	6e8ee2ea9eecd6f
-0	44	1730303323159457050	CMakeFiles/algorithmique_complexite.dir/tp0.c.o	31500badf62a7632
-0	30	1730302453402107055	algorithmique_complexite	40f6f2820bccc116
-2	46	1730303323160839561	CMakeFiles/algorithmique_complexite.dir/main.c.o	6a0a6d97dfdf1dfe
-1	45	1730360308130861316	build.ninja	83279f1fd9956cd3
-2	63	1730360308130861316	build.ninja	83279f1fd9956cd3
-0	29	1730360308138128744	CMakeFiles/algorithmique_complexite.dir/tp1.c.o	6e8ee2ea9eecd6f
-29	64	1730360308167266245	algorithmique_complexite	cf0aaa2f49184eb4
-2	45	1730361144868090336	CMakeFiles/algorithmique_complexite.dir/tp1.c.o	6e8ee2ea9eecd6f
-45	81	1730361144911310741	algorithmique_complexite	cf0aaa2f49184eb4
+2	63	1732879223460777080	build.ninja	83279f1fd9956cd3
+35	71	1732879168664290505	algorithmique_complexite	cf0aaa2f49184eb4
+0	35	1732879168629183304	CMakeFiles/algorithmique_complexite.dir/tp1.c.o	6e8ee2ea9eecd6f
+0	57	1732879223460777080	build.ninja	83279f1fd9956cd3
+0	33	1732879223468188429	CMakeFiles/algorithmique_complexite.dir/tp0.c.o	31500badf62a7632
+33	66	1732879223500811208	algorithmique_complexite	40f6f2820bccc116
